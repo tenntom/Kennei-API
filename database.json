@@ -43,11 +43,16 @@
       "id": 6
     },
     {
+      "id": 7,
       "name": "Jimmy",
-      "breed": "Mutt",
-      "locationId": 2,
-      "customerId": 1,
-      "id": 7
+      "locationId": 1,
+      "customerId": 1
+    },
+    {
+      "name": "Sparkle Kitten",
+      "locationId": 1,
+      "customerId": 3,
+      "id": 9
     }
   ],
   "customers": [
@@ -107,6 +112,12 @@
       "locationId": 2,
       "position": "Janitor",
       "id": 5
+    },
+    {
+      "name": "Marcia Brady",
+      "locationId": 2,
+      "position": "Marketing Assistant",
+      "id": 6
     }
   ],
   "locations": [
